@@ -6,4 +6,4 @@ https://user-images.githubusercontent.com/110297209/184476708-c76acfe8-8354-4b0e
 https://user-images.githubusercontent.com/110297209/184476777-d45347e9-91e7-4907-a5ac-da4e83994db1.mp4
 
 
-Guyas remember that it works on Arduino ide only
+Guys remember that it works on Arduino ide only
